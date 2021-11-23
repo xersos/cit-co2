@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "1a",
+        "sensor": {
+            "id": 1,
+            "name": "sensor1",
+            "sensorsValues": [
+                {
+                    "co2": 400,
+                    "creation_date": "2021-11-05T23:16:00Z",
+                    "nbrPeoples": 4
+                },
+                {
+                    "co2": 800,
+                    "creation_date": "2021-11-05T22:16:00Z",
+                    "nbrPeoples": 7
+                },
+                {
+                    "co2": 500,
+                    "creation_date": "2021-11-05T21:16:00Z",
+                    "nbrPeoples": 6
+                },
+                {
+                    "co2": 800,
+                    "creation_date": "2021-11-05T20:16:00Z",
+                    "nbrPeoples": 7
+                },
+                {
+                    "co2": 900,
+                    "creation_date": "2021-11-05T19:16:00Z",
+                    "nbrPeoples": 8
+                },
+                {
+                    "co2": 1200,
+                    "creation_date": "2021-11-05T18:16:00Z",
+                    "nbrPeoples": 9
+                },
+                {
+                    "co2": 1400,
+                    "creation_date": "2021-11-05T17:16:00Z",
+                    "nbrPeoples": 9
+                }
+            ]
+        },
+        "creation_date": "2021-11-05", 
+        "status": "busy", 
+        "author":"me"
+    },
+    {
+        "id": 2,
+        "name": "2b",
+        "sensor": {
+            "id": 2,
+            "name": "sensor2",
+            "sensorsValues": [
+                {
+                    "co2": 600,
+                    "creation_date": "2021-11-05T23:16:00Z",
+                    "nbrPeoples": 6
+                },
+                {
+                    "co2": 800,
+                    "creation_date": "2021-11-05T22:16:00Z",
+                    "nbrPeoples": 7
+                },
+                {
+                    "co2": 1400,
+                    "creation_date": "2021-11-05T21:16:00Z",
+                    "nbrPeoples": 9
+                },
+                {
+                    "co2": 1200,
+                    "creation_date": "2021-11-05T20:16:00Z",
+                    "nbrPeoples": 8
+                },
+                {
+                    "co2": 900,
+                    "creation_date": "2021-11-05T19:16:00Z",
+                    "nbrPeoples": 8
+                },
+                {
+                    "co2": 600,
+                    "creation_date": "2021-11-05T18:16:00Z",
+                    "nbrPeoples": 3
+                },
+                {
+                    "co2": 300,
+                    "creation_date": "2021-11-05T17:16:00Z",
+                    "nbrPeoples": 0
+                }
+            ]
+        },
+        "creation_date": "2021-11-05", 
+        "status": "empty", 
+        "author":"me"
+    }
+]
